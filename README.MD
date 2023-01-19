@@ -27,10 +27,3 @@ Time : 3 days
 
 <br>
 
-### ScreenShot
-
-<br>
-
-#### PC
-
-<img src="output.png" width="100%">
